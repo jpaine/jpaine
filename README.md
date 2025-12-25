@@ -48,3 +48,12 @@ If you're interested in collaborating, reach out or open an issue on a repo.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jpaine&color=blueviolet" alt="Profile views" />
 </div>
+
+## Useful snippets
+
+Quick reference code and templates I use:
+
+- [AI/ML utilities](https://gist.github.com/jpaine/a07b69b17b081b8be1d13ea0ec16438d) - Common functions for prototyping
+- [GitHub Actions CI/CD](https://gist.github.com/jpaine/a27099b221c48e4aa990824d26f0525b) - Workflow template for AI projects
+- [LLM quickstart](https://gist.github.com/jpaine/81a4e7dd784f93b36af263780f02ea5d) - Template for working with LLMs
+
